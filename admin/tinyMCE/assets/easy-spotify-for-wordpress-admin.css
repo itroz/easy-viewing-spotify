@@ -1,0 +1,25 @@
+.easyspotify-for-wordpress input,
+.easyspotify-for-wordpress select {
+	height: 40px;
+}
+.easyspotify-for-wordpress .blocks-table__placeholder-form {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	width: 100%;
+	flex-direction: row;
+	align-items: flex-end;
+}
+.easyspotify-for-wordpress .blocks-table__placeholder-form .blocks-table__placeholder-input {
+	width: 33.3333333%;
+}
+.easyspotify-for-wordpress .blocks-table__placeholder-form .blocks-table__placeholder-input:last-child {
+	margin-right: 0;
+}
+.easyspotify-for-wordpress .blocks-table__placeholder-form .blocks-table__placeholder-input input,
+.easyspotify-for-wordpress .blocks-table__placeholder-form .blocks-table__placeholder-input select {
+	width: 100%;
+}
+.easyspotify-for-wordpress a.default-settings {
+	font-size: 11px;
+	align-self: flex-end;
+}

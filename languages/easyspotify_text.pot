@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-05 14:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: sptify-play-button-for-wordpress.php:152
+msgid "Edit general settings for Sp*tify Play Button"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://plugins.followmedarling.se/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://plugins.followmedarling.se/spotify-play-button-for-wordpress/"
+msgstr ""
+
+#: sptify-play-button-for-wordpress.php:145
+msgid "Insert the Sp*tify Play Button"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jonk @ Follow me Darling"
+msgstr ""
+
+#: sptify-play-button-for-wordpress.php:123
+msgid "Open in Spotify"
+msgstr ""
+
+#: sptify-play-button-for-wordpress.php:152
+msgid ""
+"or add parameters to your shortcode if you want to make this one special."
+msgstr ""
+
+#: sptify-play-button-for-wordpress.php:148
+msgid ""
+"Right-click on a playlist or album in Spotify, choose Share, click URI and "
+"then paste the result in the box above. Finish by clicking the button."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Show Spotify Play Button in any page or post with a simple hook. Example: "
+"[spotifyelementor play=\"spotify:user:jonk:playlist:"
+"65ujzBs6WTdWDIr17dOXUm\" view=\"list\" size=\"0\" sizetype=\"big\"]. The "
+"best way to enter the value for the play-attribute is to go to your playlist,"
+" right click and choose \"Copy Spotify URI\" and paste it in the Text-view "
+"since you otherwise get a link and not the URI pasted. The plugin also has a "
+"general settings page in wp-admin to manage your default settings."
+msgstr ""
+
+#. Name of the plugin
+msgid "Sp*tify Play Button for WordPress"
+msgstr ""
+
+#: sptify-play-button-for-wordpress.php:142
+msgid "Spotify URI"
+msgstr ""
