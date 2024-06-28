@@ -1,9 +1,9 @@
 <?php
 //add to settings
 function easyspotify_load_textdomain() {
-	load_plugin_textdomain( 'easyspotify_text', false, WP_LANG_DIR );
+    load_plugin_textdomain( 'easyspotify', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 }
-add_action( 'plugins_loaded', 'easyspotify_load_textdomain' ); //plugins_loaded
+add_action( 'plugins_loaded', 'easyspotify_load_textdomain' );
 
 add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), 'easyspotify_settings_link' );
 function easyspotify_settings_link( $links ) {

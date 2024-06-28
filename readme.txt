@@ -1,6 +1,6 @@
 === Easy Viewing for Spotify ===
-Contributors: (itroz)
-Tags:  Spotify,elementor,playlist,Spotify Play Button, spotify Shortcode,easy spotify,widgets for elementor, Music, Spotify Embed, Embed Music, Spotify Widget, Embed content, Wordpress, Spotify for elementor,music widget, Spotify elementor,easy spotify shortcode, Embed, iframe, widget for elementor spotify
+Contributors: itroz
+Tags: Spotify, elementor, playlist, Spotify Play Button, spotify Shortcode, easy spotify, widgets for elementor, Music, Spotify Embed, Embed Music, Spotify Widget, Embed content, Wordpress, Spotify for elementor, music widget, Spotify elementor, easy spotify shortcode, Embed, iframe, widget for elementor spotify
 Stable tag: 1.2.1
 Requires at least: 5.2
 Tested up to: 6.4.0
@@ -8,7 +8,8 @@ Requires PHP: 7.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Easy viewing of Spotify audio files in WordPress through display in Gutenberg, Classic editors and Elementor.
+Easy Viewing for Spotify allows easy embedding of Spotify audio files in WordPress using Gutenberg, Classic editors, and Elementor.
+
 Our goal is to provide easy and free use of the most used services in WordPress for you.
 Easy Spotify plugin is the most used plugin provided by Itroz after Easy Soundcloud.
 
